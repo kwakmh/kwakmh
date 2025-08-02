@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 저는 곽무현입니다!
 
 <!--
 **kwakmh/kwakmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
